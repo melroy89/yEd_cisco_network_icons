@@ -11,5 +11,5 @@ Click on Edit -> Manage Palette. Press the 'Import Section...' button and finnal
 
 
 ## More info
-[Guide 1](https://www.conceptdraw.com/How-To-Guide/cisco-switches-hubs) (don't use ConceptDraw, but still useful info)
-[Guide 2](https://www.conceptdraw.com/How-To-Guide/cisco-network-topology-icons) (don't use ConceptDraw, but still useful info)
+* [Guide 1](https://www.conceptdraw.com/How-To-Guide/cisco-switches-hubs) (don't use ConceptDraw, but still useful info)
+* [Guide 2](https://www.conceptdraw.com/How-To-Guide/cisco-network-topology-icons) (don't use ConceptDraw, but still useful info)
