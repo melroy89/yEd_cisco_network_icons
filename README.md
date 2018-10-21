@@ -8,3 +8,8 @@ As [stated online](https://www.cisco.com/c/en/us/about/brand-center/network-topo
 You can import these stenciles very easily within yEd.
 
 Click on Edit -> Manage Palette. Press the 'Import Section...' button and finnaly select one or both graphml files from this repository. 
+
+
+## More info
+[Guide 1](https://www.conceptdraw.com/How-To-Guide/cisco-switches-hubs) (don't use ConceptDraw, but still useful info)
+[Guide 2](https://www.conceptdraw.com/How-To-Guide/cisco-network-topology-icons) (don't use ConceptDraw, but still useful info)
